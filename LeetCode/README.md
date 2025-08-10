@@ -7,6 +7,7 @@
 ### Easy
 
 1. [LeetCode 1 - Two Sum](./LeetCode%201%20-%20Two%20Sum.cpp)
+2. [LeetCode 9 - Palindrome Number](./LeetCode%209%20-%20Palindrome%20Number.cpp)
 
 ### Medium
 
