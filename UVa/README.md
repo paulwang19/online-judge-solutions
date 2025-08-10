@@ -10,3 +10,7 @@
 2. [UVa 382 - Perfection](./UVa%20382%20-%20Perfection.cpp)
 3. [UVa 10268 - 498-bis](./UVa%2010268%20-%20498-bis.cpp)
 4. [UVa 10273 - Eat or Not to Eat](./UVa%2010273%20-%20Eat%20or%20Not%20to%20Eat.cpp)
+
+### 未分類
+
+1. [UVa 100 - The 3n + 1 problem](./UVa%20100%20-%20The%203n%20+%201%20problem.cpp)
