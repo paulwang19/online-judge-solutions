@@ -11,6 +11,7 @@
 ### Medium
 
 1. [LeetCode 2 - Add Two Numbers](./LeetCode%202%20-%20Add%20Two%20Numbers.cpp)
-2. [LeetCode 36 - Valid Sudoku](./LeetCode%2036%20-%20Valid%20Sudoku.cpp)
+2. [LeetCode 3 - Longest Substring Without Repeating Characters](./LeetCode%203%20-%20Longest%20Substring%20Without%20Repeating%20Characters.cpp)
+3. [LeetCode 36 - Valid Sudoku](./LeetCode%2036%20-%20Valid%20Sudoku.cpp)
 
 ### Hard
