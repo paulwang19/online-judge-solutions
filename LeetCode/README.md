@@ -16,3 +16,5 @@
 3. [LeetCode 36 - Valid Sudoku](./LeetCode%2036%20-%20Valid%20Sudoku.cpp)
 
 ### Hard
+
+1. [LeetCode 10 - Regular Expression Matching](./LeetCode%2010%20-%20Regular%20Expression%20Matching.cpp)
