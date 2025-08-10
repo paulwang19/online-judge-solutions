@@ -10,6 +10,7 @@
 
 ### Medium
 
-1. [LeetCode 36 - Valid Sudoku](./LeetCode%2036%20-%20Valid%20Sudoku.cpp)
+1. [LeetCode 2 - Add Two Numbers](./LeetCode%202%20-%20Add%20Two%20Numbers.cpp)
+2. [LeetCode 36 - Valid Sudoku](./LeetCode%2036%20-%20Valid%20Sudoku.cpp)
 
 ### Hard
