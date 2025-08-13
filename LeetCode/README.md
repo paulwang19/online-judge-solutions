@@ -8,6 +8,7 @@
 
 - [LeetCode 1 - Two Sum](./LeetCode%201%20-%20Two%20Sum.cpp)
 - [LeetCode 9 - Palindrome Number](./LeetCode%209%20-%20Palindrome%20Number.cpp)
+- [LeetCode 20 - Valid Parentheses](./LeetCode%2020%20-%20Valid%20Parentheses.cpp)
 
 ### Medium
 
