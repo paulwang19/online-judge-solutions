@@ -20,3 +20,4 @@
 ### Hard
 
 - [LeetCode 10 - Regular Expression Matching](./LeetCode%2010%20-%20Regular%20Expression%20Matching.cpp)
+- [LeetCode 25 - Reverse Nodes in k-Group](./LeetCode%2025%20-%20Reverse%20Nodes%20in%20k-Group.cpp)
