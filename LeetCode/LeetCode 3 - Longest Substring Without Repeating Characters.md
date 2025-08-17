@@ -1,3 +1,8 @@
+# LeetCode 3 - Longest Substring Without Repeating Characters
+
+## 程式碼
+
+```cpp
 class Solution {
 public:
     int lengthOfLongestSubstring(string s) {
@@ -20,3 +25,4 @@ public:
         return lenOfMax;
     }
 };
+```

@@ -1,3 +1,8 @@
+# LeetCode 36 - Valid Sudoku
+
+## 程式碼
+
+```cpp
 class Solution {
 private:
     int rowCnt[9][10] = {0};
@@ -36,3 +41,4 @@ public:
 
     int getBoxArea(int i, int j) { return i / 3 * 3 + j / 3; }
 };
+```

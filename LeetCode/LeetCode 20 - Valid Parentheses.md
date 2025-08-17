@@ -1,3 +1,8 @@
+# LeetCode 20 - Valid Parentheses
+
+## 程式碼
+
+```cpp
 class Solution {
 public:
     bool isValid(string s) {
@@ -23,3 +28,4 @@ public:
         return stk.empty();
     }
 };
+```

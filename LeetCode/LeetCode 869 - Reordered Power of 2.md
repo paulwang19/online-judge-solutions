@@ -1,3 +1,8 @@
+# LeetCode 869 - Reordered Power of 2
+
+## 程式碼
+
+```cpp
 class Solution {
 private:
     vector<int> powerOf2List;
@@ -46,3 +51,4 @@ public:
         return ms.empty();
     }
 };
+```

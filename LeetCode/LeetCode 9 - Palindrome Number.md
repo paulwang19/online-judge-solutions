@@ -1,3 +1,8 @@
+# LeetCode 9 - Palindrome Number
+
+## 程式碼
+
+```cpp
 class Solution {
 public:
     bool isPalindrome(int x) {
@@ -16,3 +21,4 @@ public:
         return true;
     }
 };
+```
