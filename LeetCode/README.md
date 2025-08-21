@@ -18,6 +18,7 @@
 - [LeetCode 869 - Reordered Power of 2](./LeetCode%20869%20-%20Reordered%20Power%20of%202.md)
 - [LeetCode 837 - New 21 Game](./LeetCode%20837%20-%20New%2021%20Game.md)
 - [LeetCode 22 - Generate Parentheses](./LeetCode%2022%20-%20Generate%20Parentheses.md)
+- [LeetCode 808 - Soup Servings](./LeetCode%20808%20-%20Soup%20Servings.md)
 
 ### Hard
 
