@@ -19,6 +19,7 @@
 - [LeetCode 837 - New 21 Game](./LeetCode%20837%20-%20New%2021%20Game.md)
 - [LeetCode 22 - Generate Parentheses](./LeetCode%2022%20-%20Generate%20Parentheses.md)
 - [LeetCode 808 - Soup Servings](./LeetCode%20808%20-%20Soup%20Servings.md)
+- [LeetCode 3195 - Find the Minimum Area to Cover All Ones I](./LeetCode%203195%20-%20Find%20the%20Minimum%20Area%20to%20Cover%20All%20Ones%20I.md)
 
 ### Hard
 
