@@ -15,6 +15,8 @@
 
 - [UVa 11063 - B2-sequence](./UVa%2011063%20-%20B2-sequence.cpp)
 - [UVa 541 - Error Correction](./UVa%20541%20-%20Error%20Correction.cpp)
+- [UVa 441 - Lotto](./UVa%20441%20-%20Lotto.cpp)
+- [UVa 543 - Goldbach’s Conjecture](./UVa%20543%20-%20Goldbach%E2%80%99s%20Conjecture.cpp)
 
 ### 未分類
 
