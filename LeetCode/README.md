@@ -22,6 +22,7 @@
 - [LeetCode 808 - Soup Servings](./LeetCode%20808%20-%20Soup%20Servings.md)
 - [LeetCode 3195 - Find the Minimum Area to Cover All Ones I](./LeetCode%203195%20-%20Find%20the%20Minimum%20Area%20to%20Cover%20All%20Ones%20I.md)
 - [LeetCode 498 - Diagonal Traverse](./LeetCode%20498%20-%20Diagonal%20Traverse.md)
+- [LeetCode 3446 - Sort Matrix by Diagonals](./LeetCode%203446%20-%20Sort%20Matrix%20by%20Diagonals.md)
 
 ### Hard
 
