@@ -67,7 +67,7 @@ def update_readme(online_judge_platform, category, filename):
         except ValueError:
             if lines and lines[-1].strip() != '':
                 lines.append('\n')
-            lines.append(f"{category_header}\n")
+            lines.append(f"{category_header}\n\n")
             lines.append(new_line)
 
         f.seek(0)
