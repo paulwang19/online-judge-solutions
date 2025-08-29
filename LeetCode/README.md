@@ -23,6 +23,7 @@
 - [LeetCode 3195 - Find the Minimum Area to Cover All Ones I](./LeetCode%203195%20-%20Find%20the%20Minimum%20Area%20to%20Cover%20All%20Ones%20I.md)
 - [LeetCode 498 - Diagonal Traverse](./LeetCode%20498%20-%20Diagonal%20Traverse.md)
 - [LeetCode 3446 - Sort Matrix by Diagonals](./LeetCode%203446%20-%20Sort%20Matrix%20by%20Diagonals.md)
+- [LeetCode 3021 - Alice and Bob Playing Flower Game](./LeetCode%203021%20-%20Alice%20and%20Bob%20Playing%20Flower%20Game.md)
 
 ### Hard
 
