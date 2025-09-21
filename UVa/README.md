@@ -22,3 +22,4 @@
 ### 未分類
 
 - [UVa 100 - The 3n + 1 problem](./UVa%20100%20-%20The%203n%20+%201%20problem.cpp)
+- [UVa 10931 - Parity](./UVa%2010931%20-%20Parity.cpp)
