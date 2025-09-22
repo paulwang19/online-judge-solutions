@@ -10,6 +10,7 @@
 - [LeetCode 9 - Palindrome Number](./LeetCode%209%20-%20Palindrome%20Number.md)
 - [LeetCode 20 - Valid Parentheses](./LeetCode%2020%20-%20Valid%20Parentheses.md)
 - [LeetCode 3000 - Maximum Area of Longest Diagonal Rectangle](./LeetCode%203000%20-%20Maximum%20Area%20of%20Longest%20Diagonal%20Rectangle.md)
+- [LeetCode 3005 - Count Elements With Maximum Frequency](./LeetCode%203005%20-%20Count%20Elements%20With%20Maximum%20Frequency.md)
 
 ### Medium
 
