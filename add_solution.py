@@ -28,7 +28,7 @@ def create_solution_file(online_judge_platform, problem_display_name, lang, sour
     with open(filepath, 'w', encoding='utf-8') as f:
         f.write(content)
 
-    print(f"Successfully created file: {filepath}")
+    print(f"[INFO] Successfully created file: {filepath}")
     return filename
 
 def update_readme(online_judge_platform, category, filename):
@@ -74,7 +74,7 @@ def update_readme(online_judge_platform, category, filename):
         f.writelines(lines)
         f.truncate()
 
-    print(f"Successfully updated README.md: {readme_path}")
+    print(f"[INFO] Successfully updated README.md: {readme_path}")
 
 def get_parser():
     """Gets the argument parser."""
@@ -103,7 +103,7 @@ def main(args):
     lang_ext = os.path.splitext(base_filename)[1][1:]
     new_filename = create_solution_file(args.platform, problem_display_name, lang_ext, source_content)
     update_readme(args.platform, args.category, new_filename)
-    print("\nAutomation script finished!")
+    print("Automation script finished!")
 
 if __name__ == '__main__':
     parser = get_parser()
