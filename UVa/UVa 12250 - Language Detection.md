@@ -1,3 +1,8 @@
+# UVa 12250 - Language Detection
+
+## 程式碼
+
+```cpp
 #include <iostream>
 #include <string>
 using namespace std;
@@ -33,3 +38,4 @@ int main() {
         cin >> str;
     }
 }
+```

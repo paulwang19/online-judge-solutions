@@ -1,3 +1,8 @@
+# UVa 10931 - Parity
+
+## 程式碼
+
+```cpp
 #include <iostream>
 #include <algorithm>
 using namespace std;
@@ -32,3 +37,4 @@ int main() {
         cout << " is " << p << " (mod 2)." << endl;
     }
 }
+```

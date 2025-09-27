@@ -1,3 +1,8 @@
+# UVa 11063 - B2-sequence
+
+## 程式碼
+
+```cpp
 #include <iostream>
 #include <unordered_set>
 using namespace std;
@@ -41,3 +46,4 @@ int main() {
         cout << endl;
     }
 }
+```

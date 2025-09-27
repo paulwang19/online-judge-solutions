@@ -1,3 +1,8 @@
+# UVa 100 - The 3n + 1 problem
+
+## 程式碼
+
+```cpp
 #include <iostream>
 #include <map>
 using namespace std;
@@ -41,3 +46,4 @@ int main() {
         cout << i << " " << j << " " << max << endl;
     }
 }
+```

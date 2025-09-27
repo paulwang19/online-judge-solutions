@@ -1,3 +1,8 @@
+# UVa 10273 - Eat or Not to Eat
+
+## 程式碼
+
+```cpp
 #include <iostream>
 #include <vector>
 using namespace std;
@@ -81,3 +86,4 @@ int main() {
         Test(i + 1);
     }
 }
+```

@@ -1,3 +1,8 @@
+# UVa 441 - Lotto
+
+## 程式碼
+
+```cpp
 #include <iostream>
 using namespace std;
 
@@ -40,3 +45,4 @@ int main() {
         }
     }
 }
+```

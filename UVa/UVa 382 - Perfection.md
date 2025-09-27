@@ -1,3 +1,8 @@
+# UVa 382 - Perfection
+
+## 程式碼
+
+```cpp
 #include <iostream>
 #include <iomanip>
 using namespace std;
@@ -34,3 +39,4 @@ int main() {
 
     cout << "END OF OUTPUT" << endl;
 }
+```

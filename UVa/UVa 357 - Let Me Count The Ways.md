@@ -1,3 +1,8 @@
+# UVa 357 - Let Me Count The Ways
+
+## 程式碼
+
+```cpp
 #include <iostream>
 using namespace std;
 
@@ -24,3 +29,4 @@ int main() {
         }
     }
 }
+```
