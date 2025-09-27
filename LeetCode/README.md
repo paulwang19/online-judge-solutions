@@ -26,6 +26,8 @@
 - [LeetCode 3446 - Sort Matrix by Diagonals](./LeetCode%203446%20-%20Sort%20Matrix%20by%20Diagonals.md)
 - [LeetCode 3021 - Alice and Bob Playing Flower Game](./LeetCode%203021%20-%20Alice%20and%20Bob%20Playing%20Flower%20Game.md)
 - [LeetCode 165 - Compare Version Numbers](./LeetCode%20165%20-%20Compare%20Version%20Numbers.md)
+- [LeetCode 166 - Fraction to Recurring Decimal](./LeetCode%20166%20-%20Fraction%20to%20Recurring%20Decimal.md)
+- [LeetCode 611 - Valid Triangle Number](./LeetCode%20611%20-%20Valid%20Triangle%20Number.md)
 
 ### Hard
 
