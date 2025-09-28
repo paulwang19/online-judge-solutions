@@ -12,6 +12,7 @@
 - [LeetCode 3000 - Maximum Area of Longest Diagonal Rectangle](./LeetCode%203000%20-%20Maximum%20Area%20of%20Longest%20Diagonal%20Rectangle.md)
 - [LeetCode 3005 - Count Elements With Maximum Frequency](./LeetCode%203005%20-%20Count%20Elements%20With%20Maximum%20Frequency.md)
 - [LeetCode 3697 - Compute Decimal Representation](./LeetCode%203697%20-%20Compute%20Decimal%20Representation.md)
+- [LeetCode 976 - Largest Perimeter Triangle](./LeetCode%20976%20-%20Largest%20Perimeter%20Triangle.md)
 
 ### Medium
 
