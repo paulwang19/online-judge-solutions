@@ -30,6 +30,7 @@
 - [LeetCode 166 - Fraction to Recurring Decimal](./LeetCode%20166%20-%20Fraction%20to%20Recurring%20Decimal.md)
 - [LeetCode 611 - Valid Triangle Number](./LeetCode%20611%20-%20Valid%20Triangle%20Number.md)
 - [LeetCode 120 - Triangle](./LeetCode%20120%20-%20Triangle.md)
+- [LeetCode 3698 - Split Array With Minimum Difference](./LeetCode%203698%20-%20Split%20Array%20With%20Minimum%20Difference.md)
 
 ### Hard
 
