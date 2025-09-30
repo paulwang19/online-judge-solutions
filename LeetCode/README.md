@@ -32,6 +32,7 @@
 - [LeetCode 611 - Valid Triangle Number](./LeetCode%20611%20-%20Valid%20Triangle%20Number.md)
 - [LeetCode 120 - Triangle](./LeetCode%20120%20-%20Triangle.md)
 - [LeetCode 3698 - Split Array With Minimum Difference](./LeetCode%203698%20-%20Split%20Array%20With%20Minimum%20Difference.md)
+- [LeetCode 2221 - Find Triangular Sum of an Array](./LeetCode%202221%20-%20Find%20Triangular%20Sum%20of%20an%20Array.md)
 
 ### Hard
 
