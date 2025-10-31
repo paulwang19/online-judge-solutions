@@ -2,6 +2,8 @@
 
 ## 程式碼
 
+### 暴力解
+
 ```cpp
 class Solution {
 public:
@@ -14,6 +16,31 @@ public:
                     ans.push_back(j);
                 }
             }
+        }
+
+        return ans;
+    }
+};
+```
+
+### One-Pass 雜湊表解法
+
+```cpp
+class Solution {
+public:
+    vector<int> twoSum(vector<int>& nums, int target) {
+        vector<int> ans;
+        unordered_map<int, int> hashTable;
+        for (int i = 0; i < nums.size(); i++) {
+            int findNum = target - nums[i];
+            unordered_map<int, int>::iterator it = hashTable.find(findNum);
+            if (it != hashTable.end()) {
+                ans.push_back(it->second);
+                ans.push_back(i);
+                break;
+            }
+
+            hashTable.insert({nums[i], i});
         }
 
         return ans;
