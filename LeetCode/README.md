@@ -13,6 +13,7 @@
 - [LeetCode 3005 - Count Elements With Maximum Frequency](./LeetCode%203005%20-%20Count%20Elements%20With%20Maximum%20Frequency.md)
 - [LeetCode 3697 - Compute Decimal Representation](./LeetCode%203697%20-%20Compute%20Decimal%20Representation.md)
 - [LeetCode 976 - Largest Perimeter Triangle](./LeetCode%20976%20-%20Largest%20Perimeter%20Triangle.md)
+- [LeetCode 217 - Contains Duplicate](./LeetCode%20217%20-%20Contains%20Duplicate.md)
 
 ### Medium
 
