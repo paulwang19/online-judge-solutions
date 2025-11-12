@@ -46,7 +46,7 @@ Easy
 
 Medium
 
-- [ ] House Robber
+- [x] House Robber
 - [ ] House Robber II
 - [ ] Longest Palindromic Substring
 - [ ] Palindromic Substrings
