@@ -40,7 +40,7 @@ Hard
 
 Easy
 
-- [ ] Climbing Stairs
+- [x] Climbing Stairs
 - [ ] Min Cost Climbing Stairs
 - [ ] N-th Tribonacci Number
 

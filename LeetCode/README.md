@@ -14,6 +14,7 @@
 - [LeetCode 3697 - Compute Decimal Representation](./LeetCode%203697%20-%20Compute%20Decimal%20Representation.md)
 - [LeetCode 976 - Largest Perimeter Triangle](./LeetCode%20976%20-%20Largest%20Perimeter%20Triangle.md)
 - [LeetCode 217 - Contains Duplicate](./LeetCode%20217%20-%20Contains%20Duplicate.md)
+- [LeetCode 70 - Climbing Stairs](./LeetCode%2070%20-%20Climbing%20Stairs.md)
 
 ### Medium
 
