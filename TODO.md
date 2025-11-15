@@ -69,7 +69,7 @@ Hard
 Medium
 
 - [x] Unique Paths
-- [ ] Unique Paths II
+- [x] Unique Paths II
 - [ ] Minimum Path Sum
 - [ ] Longest Common Subsequence
 - [ ] Last Stone Weight II
