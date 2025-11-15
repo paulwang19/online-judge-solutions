@@ -68,7 +68,7 @@ Hard
 
 Medium
 
-- [ ] Unique Paths
+- [x] Unique Paths
 - [ ] Unique Paths II
 - [ ] Minimum Path Sum
 - [ ] Longest Common Subsequence
