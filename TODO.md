@@ -20,7 +20,7 @@ Easy
 
 Medium
 
-- [ ] 49. Group Anagrams
+- [x] 49. Group Anagrams
 - [ ] 912. Sort an Array
 - [ ] 75. Sort Colors
 - [ ] 347. Top K Frequent Elements
