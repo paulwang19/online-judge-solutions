@@ -16,6 +16,7 @@
 - [LeetCode 217 - Contains Duplicate](./LeetCode%20217%20-%20Contains%20Duplicate.md)
 - [LeetCode 70 - Climbing Stairs](./LeetCode%2070%20-%20Climbing%20Stairs.md)
 - [LeetCode 175 - Combine Two Tables](./LeetCode%20175%20-%20Combine%20Two%20Tables.md)
+- [LeetCode 1137 - N-th Tribonacci Number](./LeetCode%201137%20-%20N-th%20Tribonacci%20Number.md)
 
 ### Medium
 

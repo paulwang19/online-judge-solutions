@@ -42,7 +42,7 @@ Easy
 
 - [x] Climbing Stairs
 - [ ] Min Cost Climbing Stairs
-- [ ] N-th Tribonacci Number
+- [x] N-th Tribonacci Number
 
 Medium
 
