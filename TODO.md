@@ -12,7 +12,7 @@ Easy
 - [x] 217. Contains Duplicate
 - [x] 242. Valid Anagram
 - [x] 1. Two Sum
-- [ ] 14. Longest Common Prefix
+- [x] 14. Longest Common Prefix
 - [ ] 27. Remove Element
 - [ ] 169. Majority Element
 - [ ] 705. Design HashSet

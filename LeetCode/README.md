@@ -19,6 +19,7 @@
 - [LeetCode 1137 - N-th Tribonacci Number](./LeetCode%201137%20-%20N-th%20Tribonacci%20Number.md)
 - [LeetCode 1929 - Concatenation of Array](./LeetCode%201929%20-%20Concatenation%20of%20Array.md)
 - [LeetCode 242 - Valid Anagram](./LeetCode%20242%20-%20Valid%20Anagram.md)
+- [LeetCode 14 - Longest Common Prefix](./LeetCode%2014%20-%20Longest%20Common%20Prefix.md)
 
 ### Medium
 
