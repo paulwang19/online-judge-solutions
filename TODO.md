@@ -50,7 +50,7 @@ Medium
 - [x] House Robber II
 - [ ] Longest Palindromic Substring
 - [ ] Palindromic Substrings
-- [ ] Decode Ways
+- [x] Decode Ways
 - [ ] Coin Change
 - [ ] Maximum Product Subarray
 - [ ] Word Break
