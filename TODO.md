@@ -10,7 +10,7 @@ Easy
 
 - [ ] 1929. Concatenation of Array
 - [ ] 217. Contains Duplicate
-- [ ] 242. Valid Anagram
+- [x] 242. Valid Anagram
 - [x] 1. Two Sum
 - [ ] 14. Longest Common Prefix
 - [ ] 27. Remove Element
