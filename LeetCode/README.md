@@ -18,6 +18,7 @@
 - [LeetCode 175 - Combine Two Tables](./LeetCode%20175%20-%20Combine%20Two%20Tables.md)
 - [LeetCode 1137 - N-th Tribonacci Number](./LeetCode%201137%20-%20N-th%20Tribonacci%20Number.md)
 - [LeetCode 1929 - Concatenation of Array](./LeetCode%201929%20-%20Concatenation%20of%20Array.md)
+- [LeetCode 242 - Valid Anagram](./LeetCode%20242%20-%20Valid%20Anagram.md)
 
 ### Medium
 
