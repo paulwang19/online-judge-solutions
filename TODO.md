@@ -26,7 +26,7 @@ Medium
 - [ ] 347. Top K Frequent Elements
 - [ ] 304. Range Sum Query 2D Immutable
 - [ ] 238. Product of Array Except Self
-- [ ] 36. Valid Sudoku
+- [x] 36. Valid Sudoku
 - [ ] 128. Longest Consecutive Sequence
 - [ ] 122. Best Time to Buy And Sell Stock II
 - [ ] 229. Majority Element II
