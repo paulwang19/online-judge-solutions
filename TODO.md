@@ -23,7 +23,7 @@ Medium
 - [x] 49. Group Anagrams
 - [ ] 912. Sort an Array
 - [x] 75. Sort Colors
-- [ ] 347. Top K Frequent Elements
+- [x] 347. Top K Frequent Elements
 - [ ] 304. Range Sum Query 2D Immutable
 - [ ] 238. Product of Array Except Self
 - [x] 36. Valid Sudoku
