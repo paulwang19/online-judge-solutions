@@ -22,7 +22,7 @@ Medium
 
 - [x] 49. Group Anagrams
 - [ ] 912. Sort an Array
-- [ ] 75. Sort Colors
+- [x] 75. Sort Colors
 - [ ] 347. Top K Frequent Elements
 - [ ] 304. Range Sum Query 2D Immutable
 - [ ] 238. Product of Array Except Self
