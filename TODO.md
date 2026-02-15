@@ -57,7 +57,7 @@ Medium
 - [ ] Longest Increasing Subsequence
 - [ ] Partition Equal Subset Sum
 - [x] Combination Sum IV
-- [ ] Perfect Squares
+- [x] Perfect Squares
 - [ ] Integer Break
 
 Hard
