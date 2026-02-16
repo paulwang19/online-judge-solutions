@@ -58,7 +58,7 @@ Medium
 - [ ] Partition Equal Subset Sum
 - [x] Combination Sum IV
 - [x] Perfect Squares
-- [ ] Integer Break
+- [x] Integer Break
 
 Hard
 

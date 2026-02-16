@@ -50,6 +50,7 @@
 - [LeetCode 347 - Top K Frequent Elements](./LeetCode%20347%20-%20Top%20K%20Frequent%20Elements.md)
 - [LeetCode 377 - Combination Sum IV](./LeetCode%20377%20-%20Combination%20Sum%20IV.md)
 - [LeetCode 279 - Perfect Squares](./LeetCode%20279%20-%20Perfect%20Squares.md)
+- [LeetCode 343 - Integer Break](./LeetCode%20343%20-%20Integer%20Break.md)
 
 ### Hard
 
