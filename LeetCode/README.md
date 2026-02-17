@@ -20,6 +20,7 @@
 - [LeetCode 1929 - Concatenation of Array](./LeetCode%201929%20-%20Concatenation%20of%20Array.md)
 - [LeetCode 242 - Valid Anagram](./LeetCode%20242%20-%20Valid%20Anagram.md)
 - [LeetCode 14 - Longest Common Prefix](./LeetCode%2014%20-%20Longest%20Common%20Prefix.md)
+- [LeetCode 3842 - Toggle Light Bulbs](./LeetCode%203842%20-%20Toggle%20Light%20Bulbs.md)
 
 ### Medium
 
@@ -51,6 +52,7 @@
 - [LeetCode 377 - Combination Sum IV](./LeetCode%20377%20-%20Combination%20Sum%20IV.md)
 - [LeetCode 279 - Perfect Squares](./LeetCode%20279%20-%20Perfect%20Squares.md)
 - [LeetCode 343 - Integer Break](./LeetCode%20343%20-%20Integer%20Break.md)
+- [LeetCode 3843 - First Element with Unique Frequency](./LeetCode%203843%20-%20First%20Element%20with%20Unique%20Frequency.md)
 
 ### Hard
 
