@@ -81,7 +81,7 @@ def get_parser():
     parser = argparse.ArgumentParser(description="Automates adding Online Judge solutions and updating READMEs.")
     parser.add_argument('file',
                         help='Path to the source code file. The filename (without extension) will be used as the solution title.')
-    parser.add_argument('-p', '--platform', required=True, choices=['LeetCode', 'UVa'],
+    parser.add_argument('-p', '--platform', required=True, choices=['LeetCode', 'UVa', 'CSES'],
                         help='Platform name (LeetCode or UVa)')
     parser.add_argument('-c', '--category', required=True,
                         help='Category name (e.g., Easy, 2025/05/20 CPE)')
