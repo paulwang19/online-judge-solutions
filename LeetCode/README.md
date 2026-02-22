@@ -53,6 +53,9 @@
 - [LeetCode 279 - Perfect Squares](./LeetCode%20279%20-%20Perfect%20Squares.md)
 - [LeetCode 343 - Integer Break](./LeetCode%20343%20-%20Integer%20Break.md)
 - [LeetCode 3843 - First Element with Unique Frequency](./LeetCode%203843%20-%20First%20Element%20with%20Unique%20Frequency.md)
+- [LeetCode 3847 - Find the Score Difference in a Game](./LeetCode%203847%20-%20Find%20the%20Score%20Difference%20in%20a%20Game.md)
+- [LeetCode 3848 - Check Digitorial Permutation](./LeetCode%203848%20-%20Check%20Digitorial%20Permutation.md)
+- [LeetCode 3849 - Maximum Bitwise XOR After Rearrangement](./LeetCode%203849%20-%20Maximum%20Bitwise%20XOR%20After%20Rearrangement.md)
 
 ### Hard
 
@@ -60,3 +63,4 @@
 - [LeetCode 25 - Reverse Nodes in k-Group](./LeetCode%2025%20-%20Reverse%20Nodes%20in%20k-Group.md)
 - [LeetCode 23 - Merge k Sorted Lists](./LeetCode%2023%20-%20Merge%20k%20Sorted%20Lists.md)
 - [LeetCode 778 - Swim in Rising Water](./LeetCode%20778%20-%20Swim%20in%20Rising%20Water.md)
+- [LeetCode 3850 - Count Sequences to K](./LeetCode%203850%20-%20Count%20Sequences%20to%20K.md)
