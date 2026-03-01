@@ -21,6 +21,7 @@
 - [LeetCode 242 - Valid Anagram](./LeetCode%20242%20-%20Valid%20Anagram.md)
 - [LeetCode 14 - Longest Common Prefix](./LeetCode%2014%20-%20Longest%20Common%20Prefix.md)
 - [LeetCode 3842 - Toggle Light Bulbs](./LeetCode%203842%20-%20Toggle%20Light%20Bulbs.md)
+- [LeetCode 3852 - Smallest Pair With Different Frequencies](./LeetCode%203852%20-%20Smallest%20Pair%20With%20Different%20Frequencies.md)
 
 ### Medium
 
@@ -56,6 +57,9 @@
 - [LeetCode 3847 - Find the Score Difference in a Game](./LeetCode%203847%20-%20Find%20the%20Score%20Difference%20in%20a%20Game.md)
 - [LeetCode 3848 - Check Digitorial Permutation](./LeetCode%203848%20-%20Check%20Digitorial%20Permutation.md)
 - [LeetCode 3849 - Maximum Bitwise XOR After Rearrangement](./LeetCode%203849%20-%20Maximum%20Bitwise%20XOR%20After%20Rearrangement.md)
+- [LeetCode 1689 - Partitioning Into Minimum Number Of Deci-Binary Numbers](./LeetCode%201689%20-%20Partitioning%20Into%20Minimum%20Number%20Of%20Deci-Binary%20Numbers.md)
+- [LeetCode 3853 - Merge Close Characters](./LeetCode%203853%20-%20Merge%20Close%20Characters.md)
+- [LeetCode 3854 - Minimum Operations to Make Array Parity Alternating](./LeetCode%203854%20-%20Minimum%20Operations%20to%20Make%20Array%20Parity%20Alternating.md)
 
 ### Hard
 
