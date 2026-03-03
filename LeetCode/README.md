@@ -60,6 +60,7 @@
 - [LeetCode 1689 - Partitioning Into Minimum Number Of Deci-Binary Numbers](./LeetCode%201689%20-%20Partitioning%20Into%20Minimum%20Number%20Of%20Deci-Binary%20Numbers.md)
 - [LeetCode 3853 - Merge Close Characters](./LeetCode%203853%20-%20Merge%20Close%20Characters.md)
 - [LeetCode 3854 - Minimum Operations to Make Array Parity Alternating](./LeetCode%203854%20-%20Minimum%20Operations%20to%20Make%20Array%20Parity%20Alternating.md)
+- [LeetCode 1545 - Find Kth Bit in Nth Binary String](./LeetCode%201545%20-%20Find%20Kth%20Bit%20in%20Nth%20Binary%20String.md)
 
 ### Hard
 
