@@ -24,7 +24,7 @@ Medium
 - [ ] 912. Sort an Array
 - [x] 75. Sort Colors
 - [x] 347. Top K Frequent Elements
-- [ ] 304. Range Sum Query 2D Immutable
+- [x] 304. Range Sum Query 2D Immutable
 - [ ] 238. Product of Array Except Self
 - [x] 36. Valid Sudoku
 - [ ] 128. Longest Consecutive Sequence
