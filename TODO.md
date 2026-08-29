@@ -70,14 +70,14 @@ Medium
 
 - [x] Unique Paths
 - [x] Unique Paths II
-- [ ] Minimum Path Sum
+- [x] Minimum Path Sum
 - [ ] Longest Common Subsequence
 - [ ] Last Stone Weight II
 - [ ] Best Time to Buy And Sell Stock With Cooldown
 - [ ] Coin Change II
 - [ ] Target Sum
 - [ ] Interleaving String
-- [ ] Stone Game
+- [x] Stone Game
 - [ ] Stone Game II
 - [ ] Edit Distance
 

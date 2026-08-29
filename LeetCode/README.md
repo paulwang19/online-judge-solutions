@@ -62,6 +62,8 @@
 - [LeetCode 3854 - Minimum Operations to Make Array Parity Alternating](./LeetCode%203854%20-%20Minimum%20Operations%20to%20Make%20Array%20Parity%20Alternating.md)
 - [LeetCode 1545 - Find Kth Bit in Nth Binary String](./LeetCode%201545%20-%20Find%20Kth%20Bit%20in%20Nth%20Binary%20String.md)
 - [LeetCode 304 - Range Sum Query 2D - Immutable](./LeetCode%20304%20-%20Range%20Sum%20Query%202D%20-%20Immutable.md)
+- [LeetCode 64 - Minimum Path Sum](./LeetCode%2064%20-%20Minimum%20Path%20Sum.md)
+- [LeetCode 877 - Stone Game](./LeetCode%20877%20-%20Stone%20Game.md)
 
 ### Hard
 
