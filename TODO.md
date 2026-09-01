@@ -78,7 +78,7 @@ Medium
 - [ ] Target Sum
 - [ ] Interleaving String
 - [x] Stone Game
-- [ ] Stone Game II
+- [x] Stone Game II
 - [ ] Edit Distance
 
 Hard

@@ -64,6 +64,7 @@
 - [LeetCode 304 - Range Sum Query 2D - Immutable](./LeetCode%20304%20-%20Range%20Sum%20Query%202D%20-%20Immutable.md)
 - [LeetCode 64 - Minimum Path Sum](./LeetCode%2064%20-%20Minimum%20Path%20Sum.md)
 - [LeetCode 877 - Stone Game](./LeetCode%20877%20-%20Stone%20Game.md)
+- [LeetCode 1140 - Stone Game II](./LeetCode%201140%20-%20Stone%20Game%20II.md)
 
 ### Hard
 
