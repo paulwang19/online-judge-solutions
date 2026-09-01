@@ -65,6 +65,7 @@
 - [LeetCode 64 - Minimum Path Sum](./LeetCode%2064%20-%20Minimum%20Path%20Sum.md)
 - [LeetCode 877 - Stone Game](./LeetCode%20877%20-%20Stone%20Game.md)
 - [LeetCode 1140 - Stone Game II](./LeetCode%201140%20-%20Stone%20Game%20II.md)
+- [LeetCode 912 - Sort an Array](./LeetCode%20912%20-%20Sort%20an%20Array.md)
 
 ### Hard
 

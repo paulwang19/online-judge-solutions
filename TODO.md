@@ -21,7 +21,7 @@ Easy
 Medium
 
 - [x] 49. Group Anagrams
-- [ ] 912. Sort an Array
+- [x] 912. Sort an Array
 - [x] 75. Sort Colors
 - [x] 347. Top K Frequent Elements
 - [x] 304. Range Sum Query 2D Immutable
