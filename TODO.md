@@ -62,7 +62,7 @@ Medium
 
 Hard
 
-- [ ] Stone Game III
+- [x] Stone Game III
 
 ### 2-D Dynamic Programming
 

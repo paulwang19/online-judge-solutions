@@ -74,3 +74,4 @@
 - [LeetCode 23 - Merge k Sorted Lists](./LeetCode%2023%20-%20Merge%20k%20Sorted%20Lists.md)
 - [LeetCode 778 - Swim in Rising Water](./LeetCode%20778%20-%20Swim%20in%20Rising%20Water.md)
 - [LeetCode 3850 - Count Sequences to K](./LeetCode%203850%20-%20Count%20Sequences%20to%20K.md)
+- [LeetCode 1406 - Stone Game III](./LeetCode%201406%20-%20Stone%20Game%20III.md)
