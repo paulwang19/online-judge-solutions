@@ -28,7 +28,7 @@ Medium
 - [ ] 238. Product of Array Except Self
 - [x] 36. Valid Sudoku
 - [ ] 128. Longest Consecutive Sequence
-- [ ] 122. Best Time to Buy And Sell Stock II
+- [x] 122. Best Time to Buy And Sell Stock II
 - [ ] 229. Majority Element II
 - [ ] 560. Subarray Sum Equals K
 
