@@ -51,7 +51,7 @@ Medium
 - [ ] Longest Palindromic Substring
 - [ ] Palindromic Substrings
 - [x] Decode Ways
-- [ ] Coin Change
+- [x] Coin Change
 - [x] Maximum Product Subarray
 - [ ] Word Break
 - [ ] Longest Increasing Subsequence
