@@ -74,7 +74,7 @@ Medium
 - [ ] Longest Common Subsequence
 - [ ] Last Stone Weight II
 - [ ] Best Time to Buy And Sell Stock With Cooldown
-- [ ] Coin Change II
+- [x] Coin Change II
 - [ ] Target Sum
 - [ ] Interleaving String
 - [x] Stone Game
