@@ -52,7 +52,7 @@ Medium
 - [ ] Palindromic Substrings
 - [x] Decode Ways
 - [ ] Coin Change
-- [ ] Maximum Product Subarray
+- [x] Maximum Product Subarray
 - [ ] Word Break
 - [ ] Longest Increasing Subsequence
 - [ ] Partition Equal Subset Sum
