@@ -70,6 +70,7 @@
 - [LeetCode 152 - Maximum Product Subarray](./LeetCode%20152%20-%20Maximum%20Product%20Subarray.md)
 - [LeetCode 322 - Coin Change](./LeetCode%20322%20-%20Coin%20Change.md)
 - [LeetCode 518 - Coin Change II](./LeetCode%20518%20-%20Coin%20Change%20II.md)
+- [LeetCode 139 - Word Break](./LeetCode%20139%20-%20Word%20Break.md)
 
 ### Hard
 

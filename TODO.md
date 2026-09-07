@@ -53,7 +53,7 @@ Medium
 - [x] Decode Ways
 - [x] Coin Change
 - [x] Maximum Product Subarray
-- [ ] Word Break
+- [x] Word Break
 - [ ] Longest Increasing Subsequence
 - [ ] Partition Equal Subset Sum
 - [x] Combination Sum IV
