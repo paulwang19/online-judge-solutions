@@ -22,6 +22,7 @@
 - [LeetCode 14 - Longest Common Prefix](./LeetCode%2014%20-%20Longest%20Common%20Prefix.md)
 - [LeetCode 3842 - Toggle Light Bulbs](./LeetCode%203842%20-%20Toggle%20Light%20Bulbs.md)
 - [LeetCode 3852 - Smallest Pair With Different Frequencies](./LeetCode%203852%20-%20Smallest%20Pair%20With%20Different%20Frequencies.md)
+- [LeetCode 27 - Remove Element](./LeetCode%2027%20-%20Remove%20Element.md)
 
 ### Medium
 
